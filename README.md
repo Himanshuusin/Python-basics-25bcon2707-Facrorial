@@ -22,4 +22,3 @@ Learning Objective
 * Display output using the print() function.
 
 
-Commit message: Update README documentation.
