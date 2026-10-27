@@ -12,7 +12,7 @@ How to Run
 
 python factorial.py
 
-4. Enter a non-negative integer when prompted.
+4. Enter an integer when prompted. Use a non-negative integer for a valid factorial result.
 
 Learning Objective
 
